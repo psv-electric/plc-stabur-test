@@ -1,0 +1,16 @@
+
+{
+	"UpdateRate": 200,
+	"PlcAddress": "03B2.D001",
+	"UseLocalHost": true,
+	"Application": "Application",
+	"StartVisu": "Main",
+	"BestFit": true,
+	"LogLevel": "INFO",
+	"CommBufferSize": 50000,
+    "HasKeyboard": false,
+    "TouchHandlingActive": false,
+    "ScaleTypeIsotropic": false,
+    "BestFitForDialogs": true,
+    "RuntimeVersion": "3.5.16.40"
+}
