@@ -2,6 +2,7 @@ ImagePool; ;can codesys;can.png;
 ImagePool; ;rs485 codesys;rs485.png;
 ImagePool; ;logo;logo.png;
 ImagePool; ;background;background.png;
+ImagePool; ;rs485-bb12;rs485_bb12_codesys.png;
 __VisualizationStyle; ;Element-BarDisplayImage-Yellow-Horizontal;element-bardisplayimage-yellow-horizontal.png;
 __VisualizationStyle; ;Element-BarDisplayImage-Yellow-Vertical;element-bardisplayimage-yellow-vertical.png;
 __VisualizationStyle; ;Element-BarDisplayImage-Red-Horizontal;element-bardisplayimage-red-horizontal.png;

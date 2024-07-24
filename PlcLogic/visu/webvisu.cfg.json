@@ -1,7 +1,7 @@
 
 {
 	"UpdateRate": 200,
-	"PlcAddress": "03B2.D001",
+	"PlcAddress": "00C8",
 	"UseLocalHost": true,
 	"Application": "Application",
 	"StartVisu": "Main",
